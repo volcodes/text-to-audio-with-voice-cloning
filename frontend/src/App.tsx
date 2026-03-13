@@ -18,7 +18,9 @@ export default function App() {
 
   return (
     <div className="app">
-      <h1>Book Import - Voice Cloning</h1>
+      <header className="app-header">
+        <img src="/logo.png" alt="Text-to-Audio with Voice Cloning" className="app-logo" />
+      </header>
 
       <TextDisplay />
 
