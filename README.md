@@ -18,11 +18,11 @@
 </p>
 
 <p align="center">
-  <a href="#-getting-started">Getting Started</a> •
-  <a href="#-features">Features</a> •
-  <a href="#-architecture">Architecture</a> •
-  <a href="#-how-it-works">How It Works</a> •
-  <a href="#-contributing">Contributing</a>
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#features">Features</a> •
+  <a href="#architecture">Architecture</a> •
+  <a href="#how-it-works">How It Works</a> •
+  <a href="#contributing">Contributing</a>
 </p>
 
 ---
